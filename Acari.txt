@@ -1,0 +1,112 @@
+Tempo de envio do cliente: 1540565516885
+Tempo de Recebimento do Servidor : 1540565516886
+Tempo de envio do Servidor: 1540565516887
+Tempo de Recebimento do  Cliente: 1540565516888
+ RTT 
+formula1 -> (t3 - t0) = 3
+formula2 -> (t2 - t1) = 1
+ RTT divido por 2 
+(formula1 - formula2)/2 =  1
+ RTT Offset 
+th -> (t1 - t0) + (t2 - t3 ) / 2 = 1
+ Horario de Cristian 
+Horario de Cristian -> t2 + (rtt/2): 1540565516888
+Horario de Cristian -> t2 + (rtt_offset): 1540565516888
+Tempo de envio do cliente: 1540565516948
+Tempo de Recebimento do Servidor : 1540565516949
+Tempo de envio do Servidor: 1540565516950
+Tempo de Recebimento do  Cliente: 1540565516951
+ RTT 
+formula1 -> (t3 - t0) = 3
+formula2 -> (t2 - t1) = 1
+ RTT divido por 2 
+(formula1 - formula2)/2 =  1
+ RTT Offset 
+th -> (t1 - t0) + (t2 - t3 ) / 2 = 1
+ Horario de Cristian 
+Horario de Cristian -> t2 + (rtt/2): 1540565516951
+Horario de Cristian -> t2 + (rtt_offset): 1540565516951
+Tempo de envio do cliente: 1540565517042
+Tempo de Recebimento do Servidor : 1540565517043
+Tempo de envio do Servidor: 1540565517044
+Tempo de Recebimento do  Cliente: 1540565517045
+ RTT 
+formula1 -> (t3 - t0) = 3
+formula2 -> (t2 - t1) = 1
+ RTT divido por 2 
+(formula1 - formula2)/2 =  1
+ RTT Offset 
+th -> (t1 - t0) + (t2 - t3 ) / 2 = 1
+ Horario de Cristian 
+Horario de Cristian -> t2 + (rtt/2): 1540565517045
+Horario de Cristian -> t2 + (rtt_offset): 1540565517045
+Tempo de envio do cliente: 1540565517135
+Tempo de Recebimento do Servidor : 1540565517136
+Tempo de envio do Servidor: 1540565517137
+Tempo de Recebimento do  Cliente: 1540565517138
+ RTT 
+formula1 -> (t3 - t0) = 3
+formula2 -> (t2 - t1) = 1
+ RTT divido por 2 
+(formula1 - formula2)/2 =  1
+ RTT Offset 
+th -> (t1 - t0) + (t2 - t3 ) / 2 = 1
+ Horario de Cristian 
+Horario de Cristian -> t2 + (rtt/2): 1540565517138
+Horario de Cristian -> t2 + (rtt_offset): 1540565517138
+Tempo de envio do cliente: 1540565517229
+Tempo de Recebimento do Servidor : 1540565517230
+Tempo de envio do Servidor: 1540565517231
+Tempo de Recebimento do  Cliente: 1540565517232
+ RTT 
+formula1 -> (t3 - t0) = 3
+formula2 -> (t2 - t1) = 1
+ RTT divido por 2 
+(formula1 - formula2)/2 =  1
+ RTT Offset 
+th -> (t1 - t0) + (t2 - t3 ) / 2 = 1
+ Horario de Cristian 
+Horario de Cristian -> t2 + (rtt/2): 1540565517232
+Horario de Cristian -> t2 + (rtt_offset): 1540565517232
+Tempo de envio do cliente: 1540565517312
+Tempo de Recebimento do Servidor : 1540565517313
+Tempo de envio do Servidor: 1540565517314
+Tempo de Recebimento do  Cliente: 1540565517315
+ RTT 
+formula1 -> (t3 - t0) = 3
+formula2 -> (t2 - t1) = 1
+ RTT divido por 2 
+(formula1 - formula2)/2 =  1
+ RTT Offset 
+th -> (t1 - t0) + (t2 - t3 ) / 2 = 1
+ Horario de Cristian 
+Horario de Cristian -> t2 + (rtt/2): 1540565517315
+Horario de Cristian -> t2 + (rtt_offset): 1540565517315
+Tempo de envio do cliente: 1540565517403
+Tempo de Recebimento do Servidor : 1540565517404
+Tempo de envio do Servidor: 1540565517405
+Tempo de Recebimento do  Cliente: 1540565517406
+ RTT 
+formula1 -> (t3 - t0) = 3
+formula2 -> (t2 - t1) = 1
+ RTT divido por 2 
+(formula1 - formula2)/2 =  1
+ RTT Offset 
+th -> (t1 - t0) + (t2 - t3 ) / 2 = 1
+ Horario de Cristian 
+Horario de Cristian -> t2 + (rtt/2): 1540565517406
+Horario de Cristian -> t2 + (rtt_offset): 1540565517406
+Tempo de envio do cliente: 1540565517497
+Tempo de Recebimento do Servidor : 1540565517498
+Tempo de envio do Servidor: 1540565517499
+Tempo de Recebimento do  Cliente: 1540565517500
+ RTT 
+formula1 -> (t3 - t0) = 3
+formula2 -> (t2 - t1) = 1
+ RTT divido por 2 
+(formula1 - formula2)/2 =  1
+ RTT Offset 
+th -> (t1 - t0) + (t2 - t3 ) / 2 = 1
+ Horario de Cristian 
+Horario de Cristian -> t2 + (rtt/2): 1540565517500
+Horario de Cristian -> t2 + (rtt_offset): 1540565517500
